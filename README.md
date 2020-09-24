@@ -1,5 +1,11 @@
 # master
 主分支
+|-Knowledge Distillation
+    |-VanillaKD
+        |-data
+        |-RunKD.py
+        |-Student.py
+        |-Teacher.py
 
-测试文件是否成功！
+
 
